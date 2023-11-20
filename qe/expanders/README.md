@@ -43,7 +43,7 @@ Here is the list of queries:
 
 # Backtranslation
 Back translation, also known as reverse translation or dual translation, involves translating content, whether it is a query or paragraph, from one language to another and retranslating it to the original language. This method provides several options for the owner to make a decision that makes the most sense based on the task at hand.
-For additional details, please refer to this [document](./expanders/Backtranslation.pdf).
+For additional details, please refer to this [document](./Backtranslation.pdf).
 
 ## Example
 | **q** 	| **map q** 	| **language** 	| **translated q** 	| **backtranslated q** 	| **map q'** 	|
